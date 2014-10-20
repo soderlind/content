@@ -1,0 +1,3 @@
+[submodule "plugins/developer"]
+	path = plugins/developer
+	url = https://github.com/Automattic/developer.git
