@@ -1,4 +1,5 @@
-content
-=======
+This is the base repository for `content` used in my WordPress plugin development projects.
 
-Plugins I use
+## Prerequisites
+
+This setup works well with [Chassis](https://github.com/Chassis/Chassis).
