@@ -1,3 +1,6 @@
 [submodule "plugins/developer"]
 	path = plugins/developer
 	url = https://github.com/Automattic/developer.git
+[submodule "plugins/debug-bar-list-dependencies"]
+	path = plugins/debug-bar-list-dependencies
+	url = https://github.com/soderlind/debug-bar-list-dependencies.git
